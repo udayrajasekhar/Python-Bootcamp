@@ -1,4 +1,4 @@
-#DAY 5
+#DAY 6
 #Write a Python script to merge two Python dictionaries
 
 Batsmens={"Ruturaj Gaikwad":"Opener","Faf Duplesis":"Opener",
@@ -24,7 +24,8 @@ Batting_Order=Batsmens.copy()
 Batting_Order.update(All_Rounders)
 print("\n Batting order is:",Batting_Order)
 
-#Write a Python program to remove a key from a dictionary
+#Write a Python program to remove a key from a dictionary
+
 
 #deleting a key(Dwayne Bravo,Krishnappa Goutham,Cheteswar pujara:Ruled out dua to injury)
 #using del function
