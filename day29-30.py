@@ -18,7 +18,7 @@ else:
 
 
 # Initialise game window
-pygame.display.set_caption('Snake Game @ Dhivya S')
+pygame.display.set_caption('Snake Game @ Uday Rajasekhar')
 game_window = pygame.display.set_mode((frame_size_x, frame_size_y))
 
 
